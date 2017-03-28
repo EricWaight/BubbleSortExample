@@ -6,4 +6,4 @@ or lowest to highest.
 
 Make sure to build tests for your code.
 
-You may code this in any language you like.
+You may code this in any language you like. Zack is a facist.
